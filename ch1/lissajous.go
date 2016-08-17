@@ -6,7 +6,7 @@ import (
 	"image/gif"
 	"io"
 	"math"
-	"math/rand"
+	"math/rand"s
 	"os"
 )
 
